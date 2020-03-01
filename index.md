@@ -4,17 +4,20 @@
 
 ### Ultimi lavori
 
+[HomeBeer](/works/homebeer)
+<img src="images/homebeer.jpg?raw=true"/>
+
+---
+[BioAmbassador](/works/bioambassador)
+<img src="images/dummy_thumbnail.jpg?raw=true"/>
+
+---
+[Copy42](/works/copy42)
+<img src="images/dummy_thumbnail.jpg?raw=true"/>
+
+---
 [SkillsAndMore](/works/skillsandmore)
 <img src="images/skillsandmore.jpg?raw=true"/>
-
----
-[Project 2 Title](/pdf/sample_presentation.pdf)
-<img src="images/dummy_thumbnail.jpg?raw=true"/>
-
----
-[Project 3 Title](http://example.com/)
-<img src="images/dummy_thumbnail.jpg?raw=true"/>
-
 ---
 
 ### Category Name 2
