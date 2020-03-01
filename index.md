@@ -2,10 +2,10 @@
 
 ---
 
-### Category Name 1
+### Ultimi lavori
 
-[Project 1 Title](/sample_page)
-<img src="images/dummy_thumbnail.jpg?raw=true"/>
+[SkillsAndMore](/works/skillsandmore)
+<img src="images/skillsandmore.jpg?raw=true"/>
 
 ---
 [Project 2 Title](/pdf/sample_presentation.pdf)
