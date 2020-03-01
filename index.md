@@ -5,27 +5,26 @@
 ### Ultimi lavori
 
 [HomeBeer](/works/homebeer)
+Piattaforma eCommerce multi vendor con possibilità di ricercare il prodotto in base alla posizione del visitatore sfruttando le Google Maps API.
 <img src="images/homebeer.jpg?raw=true"/>
+<small>Tecnologie: WordPress - WooCommerce - Dokan</small>
 
 ---
 [BioAmbassador](/works/bioambassador)
-<img src="images/dummy_thumbnail.jpg?raw=true"/>
+Piattaforma eCommerce multi vendor con regole di affiliazione molto specifiche per gli autori (Ambassador) del sito.
+<img src="images/bioambassador.jpg?raw=true"/>
+<small>Tecnologie: WordPress - WooCommerce - Dokan</small>
 
 ---
 [Copy42](/works/copy42)
-<img src="images/dummy_thumbnail.jpg?raw=true"/>
+Piattaforma eLearning ed eCommerce con soluzione personalizzata per la visualizzazione di messaggi promozionali basati sulle scelte del visitatore.
+<img src="images/copy42.jpg?raw=true"/>
+<small>Tecnologie: WordPress - WooCommerce - LifterLMS</small>
 
 ---
 [SkillsAndMore](/works/skillsandmore)
+Piattaforma eLearning dedicata agli sviluppatori.
 <img src="images/skillsandmore.jpg?raw=true"/>
----
-
-### Category Name 2
-
-- [Project 1 Title](http://example.com/)
-- [Project 2 Title](http://example.com/)
-- [Project 3 Title](http://example.com/)
-- [Project 4 Title](http://example.com/)
-- [Project 5 Title](http://example.com/)
+<small>Tecnologie: WordPress - WooCommerce - Dokan</small>
 
 ---
