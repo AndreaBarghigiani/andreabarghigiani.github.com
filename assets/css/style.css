@@ -357,7 +357,7 @@ h4,
 h5,
 h6 {
 	color: #222;
-	margin: 0 0 20px;
+	margin: 0 0 10px;
 }
 
 p,
@@ -461,8 +461,12 @@ th {
 }
 
 img {
-	border: 1px solid #ef6c00;
 	max-width: 100%;
+}
+
+section img {
+	border: 1px solid #ef6c00;
+	margin-bottom: 6px;
 }
 
 header {
