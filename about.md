@@ -20,3 +20,4 @@ Una lista di strumenti che uso quotidianamente:
 * Gulp ([Gulpfile.js personalizzato](https://github.com/skillsAndMore/gulp-sass-project))
 * Docker ([docker-compose personalizzato](https://github.com/skillsAndMore/wp-docker))
 * VS Code
+* Git

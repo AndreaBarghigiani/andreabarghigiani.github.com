@@ -4,7 +4,7 @@ description: > # your text below (remove <br> elements if you don't need line br
   <h4>Front End WordPress Developer</h4>
   <p>10+ years of experience building the web</p>
   <br>
-  <a href="https://www.linkedin.com/in/andreabarghigiani/">LinkedIn</a>
+  <a href="https://www.linkedin.com/in/andreabarghigiani/">LinkedIn</a><br />
   <a href="/about">Su di me</a>
 
 theme: jekyll-theme-minimal
